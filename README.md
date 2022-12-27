@@ -1,7 +1,7 @@
 # Abstract
-Transport is an essential infrastructure and it is part and parcel of our daily life. Accoring to the transport sector, transport makes a significant contribution to CO2 emission in Malaysia. In this project, we will generate a carbon footprint calculator (CarboNet) in order to calculate the amount of carbon emissions. The vehicle model and the distance travelled will be taken into consideration. \
+Transport is an essential infrastructure and it is part and parcel of our daily life. According to the transport sector, transport makes a significant contribution to CO2 emission in Malaysia. In this project, we will generate a carbon footprint calculator (CarboNet) in order to calculate the amount of carbon emissions. The vehicle model and the distance traveled will be taken into consideration. \
 \
-The programming languagues which will be used for frontend and backend development:
+The programming languages which will be used for frontend and backend development:
 - Frontend : React will be used for web development.
 - Backend : Django will be used to build machine learning model
 # Proposal Timeline
@@ -15,4 +15,4 @@ Before Feb 3:
 - initial implementation on both web design and backend development.
 
 After Feb 3:
-- improve and update the progess.
+- improve and update the progress.
